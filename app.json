@@ -1,7 +1,7 @@
 {
   "name": "LOGI MUSIC BOT",
   "description": "Make your own telegram music bot for stream music in group voice chat.",
-  "repository": "https://github.com/LOGI-LAP/music-player",
+  "repository": "https://github.com/UnoDark/music-player",
   "logo": "https://tse1.mm.bing.net/th?id=OIP.nvH6O8DkAI7_RCJoeZOuKQHaEK&pid=Api&P=0&w=315&h=178",
   "keywords": [
   "python3",
