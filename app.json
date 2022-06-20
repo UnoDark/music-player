@@ -12,7 +12,7 @@
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/LOGI-LAP/music-player",
+  "repository": "https://github.com/UnoDark/music-player",
   "stack": "container",
   "env": {
     "API_ID": {
